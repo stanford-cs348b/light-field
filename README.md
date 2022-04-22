@@ -1,4 +1,5 @@
 # HW3: Light Field Cameras
+# Due Tuesday, May 3rd, 11:59PM
 
 ![Camera Array](http://graphics.stanford.edu/courses/cs348b-19-spring-content/article_images/6_.jpg)
 
@@ -148,7 +149,7 @@ In total, your submission should include the following files:
 - The images produced in steps 2 and 3 as png files.
 - Your Submission.md file.
 
-Ensure that all your changes have been committed and pushed to GitHub, then create a pull request from your assignment3 branch to *your* master branch. Add the TAs as reviews of the pull request and **DO NOT** merge your pull request. Keep your master branch unchanged as a basis for future assignments.
+Ensure that all your changes have been committed and pushed to GitHub, then create a pull request from your assignment3 branch to *your* master branch. Add the TA as reviewer of the pull request and **DO NOT** merge your pull request. Keep your master branch unchanged as a basis for future assignments.
 
 # Grading
 - 0 - Little or no work was done.
